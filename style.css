@@ -30,6 +30,8 @@ li a {
     padding: 16px;
 }
 h1 {
-    font-weight: normal;
     margin-top: 32px;
+}
+h1, h2, h3 {
+    font-weight: normal;
 }
